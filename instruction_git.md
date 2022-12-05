@@ -33,3 +33,6 @@ Git - это программа для хранения разных верси�
     git commit
     
     git commit -m "message"
+
+    git commit -am "message"
+    
