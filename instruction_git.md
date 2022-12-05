@@ -41,4 +41,9 @@ Git - это программа для хранения разных верси�
     git log
 
     git log -oneline
-    
+
+    git log --all
+
+    git log --all --oneline
+
+
